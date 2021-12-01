@@ -1,0 +1,10 @@
+.table1
+{
+	border-collapse: collapse;
+	height: 270px;
+	width: 540px;
+}
+.table1 td
+{
+	text-align: center;
+}
